@@ -6,4 +6,4 @@ hello git
 hello git
 hello git
 hello git
-ello git master test
+ello git master hotfix  test 
